@@ -8,5 +8,5 @@
 
 #Hasil
 
-[TUGAS PERTEMUAN 1](.pertemuan1.drawio)
+[TUGAS PERTEMUAN 1](pertemuan1.drawio)
 
