@@ -7,6 +7,5 @@
 5. instal Docker
 
 #Hasil
-
-[hehe](.IF214002/pertemuan1)
+[TUGAS PERTEMUAN 1](.IF214002/pertemuan1)
 
