@@ -6,6 +6,7 @@ HAYO.ID adalah aplikasi jasa antar barang yang murah dan praktis . fitur aplikas
 1. Mengirim paket
 
 
+
 ENTITAS DAN ATRIBUT
 
 CUSTOMER
@@ -44,12 +45,12 @@ ORDER
 - tanggal order
 
 BAYAR 
-ID
-id order
-id user
-id kurir
-tanggal
-qr code 
+- ID
+- id order
+- id user
+- id kurir
+- tanggal
+- qr code bayar 
 
 
 
