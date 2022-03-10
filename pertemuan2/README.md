@@ -1,7 +1,7 @@
 IDE : SISTEM APLIKASI ANTAR BARANG
 
 DESKRIPSI :
-HAYO.ID adalah aplikasi jasa antar barang se jawa barat yang murah dan praktis . fitur aplikasi ini adalah :
+HAYO.ID adalah aplikasi jasa antar barang yang murah dan praktis . fitur aplikasi ini adalah :
 
 1. Mengirim paket
 
