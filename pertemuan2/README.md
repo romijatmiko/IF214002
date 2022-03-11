@@ -1,4 +1,4 @@
-IDE : SISTEM APLIKASI ANTAR BARANG
+IDE : SISTEM APLIKASI ANTAR BARANG (MASIH BISA BERUBAH)
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/71611488/157787578-95db17c4-7411-489c-bb7a-d8ac461158b8.png)
 
