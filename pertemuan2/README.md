@@ -4,10 +4,11 @@ DESKRIPSI :
 HAYO.ID adalah aplikasi jasa antar barang yang murah dan praktis . fitur aplikasi ini adalah :
 
 1. Mengirim paket
+2. fitur lain masih dipikirkan
 
 
 
-ENTITAS DAN ATRIBUT
+<h1 b >ENTITAS DAN ATRIBUT</h1>
 
 CUSTOMER
 - ID
