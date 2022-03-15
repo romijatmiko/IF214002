@@ -49,6 +49,7 @@ KATEGORI
 
 
 FAVORIT USER
+- id favorit
 - id user
 - id makanan
 - id minuman
@@ -69,6 +70,12 @@ CHECKOUT
 - id minuman
 - jumlah makanan
 - jumlah minuman
+
+STATUS ORDER
+- id status
+- status order
+- id order
+- tanggal
 
 LEVEL
 - id user
