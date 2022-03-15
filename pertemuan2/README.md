@@ -1,59 +1,68 @@
-IDE : SISTEM APLIKASI ANTAR BARANG (MASIH BISA BERUBAH)
+IDE : SISTEM APLIKASI DELIVERY MAKANAN 
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/71611488/157787578-95db17c4-7411-489c-bb7a-d8ac461158b8.png)
 
 DESKRIPSI :
-HAYO.ID adalah aplikasi jasa antar barang yang murah dan praktis . fitur aplikasi ini adalah :
+OBurger adalah aplikasi Food Delivery yang berisi makanan cepat saji, seperti burger, ayam goreng, berbagai macam minuman soda, dll . fitur aplikasi ini adalah :
 
-1. Mengirim paket
-2. fitur lain masih dipikirkan
+1. Memesan makanan
+2. Delivery makanan
+3. Search box berbagai menu makanan
 
 
 
 <h1 b >ENTITAS DAN ATRIBUT</h1>
 
-CUSTOMER
-- ID
-- id customer
-- nama customer
-- alamat customer
-- tempat lahir customer
-- tanggal lahir customer
-- no hp customer
-- email customer
+USER
+- id user
+- nama 
+- alamat 
+- tempat lahir 
+- tanggal lahir 
+- no hp 
+- email 
 - username 
 - password
 
-KURIR
-- ID
-- id kurir
-- nama kurir
-- alamat kurir
-- tempat lahir kurir
-- tanggal Lahir kurir
-- no Hp kurir
-- email kurir
+MAKANAN
+- id makanan
+- nama makanan
+- harga makanan
+- jumlah 
 
-ORDER 
-- ID
-- id paket
+MINUMAN
+- id minuman
+- nama minuman
+- harga minuman
+- jumlah 
+
+KATEGORI
+- id kategori
+- id makanan
+- id minuman
+
+
+FAVORIT USER
 - id user
-- id kurir
-- nama paket
-- nominal paket
-- jenis paket
-- tujuan paket
-- nama penerima paket
-- nama pengirim paket
-- tanggal order
+- id makanan
+- id minuman
 
-BAYAR 
-- ID
+KERANJANG 
+- id user
+- id makanan
+- id minuman
+- jumlah makanan
+- jumlah minuman
+
+CHECKOUT
+- id user
 - id order
-- id user
-- id kurir
 - tanggal
-- qr code bayar 
+- status order
+- id makanan
+- id minuman
+- jumlah makanan
+- jumlah minuman
 
 
 
