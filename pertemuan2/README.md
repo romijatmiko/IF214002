@@ -24,6 +24,12 @@ USER
 - username 
 - password
 
+ADMIN
+- id admin
+- username
+- password
+
+
 MAKANAN
 - id makanan
 - nama makanan
@@ -64,7 +70,10 @@ CHECKOUT
 - jumlah makanan
 - jumlah minuman
 
-
+LEVEL
+- id user
+- id admin
+- id level
 
 
 
