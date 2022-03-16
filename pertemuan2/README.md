@@ -54,6 +54,7 @@ FAVORIT USER
 - id minuman
 
 KERANJANG 
+- id keranjang
 - id user
 - id makanan
 - id minuman
