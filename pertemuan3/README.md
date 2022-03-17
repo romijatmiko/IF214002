@@ -1,5 +1,5 @@
 
-IDE : SISTEM APLIKASI DELIVERY MAKANAN 
+IDE : SISTEM APLIKASI MAKANAN CEPAT SAJI
 
 ![er](https://user-images.githubusercontent.com/71611488/158846003-0bc84a14-897c-4eb9-ab0e-a52bdb2d0c82.PNG)
 
