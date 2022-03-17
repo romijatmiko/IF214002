@@ -40,7 +40,7 @@ KATEGORI
 - id menu
 
 
-FAVORIT USER
+FAVORIT MENU
 - *id favorit
 - id user
 - id menu
@@ -48,20 +48,20 @@ FAVORIT USER
 KERANJANG 
 - *id keranjang
 - id menu
+- id user
 - jumlah pesanan
 
 CHECKOUT
-- *id keranjang
+- *id bayar
+- id keranjang
 - id user
 - tanggal
-- status order
-- id menu
-- jumlah pesanan
 
 KONFIRMASI ORDER
 - *id status
+- id bayar
+- id user
 - status order
-- id order
 - tanggal
 
 
