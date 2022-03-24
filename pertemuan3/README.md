@@ -1,7 +1,8 @@
 
 IDE : SISTEM APLIKASI MAKANAN CEPAT SAJI
 
-![Capture](https://user-images.githubusercontent.com/71611488/159816582-2427aa8f-a63c-408c-a9e4-a2f1d0f8f256.PNG)
+![Capture](https://user-images.githubusercontent.com/71611488/159820066-2d0a1c0b-200d-415b-98a5-4820de021c47.PNG)
+
 
 DESKRIPSI :
 OBurger adalah aplikasi Food Delivery yang berisi makanan cepat saji, seperti burger, ayam goreng, berbagai macam minuman soda, dll . fitur aplikasi ini adalah :
