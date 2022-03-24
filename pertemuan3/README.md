@@ -1,7 +1,7 @@
 
 IDE : SISTEM APLIKASI MAKANAN CEPAT SAJI
 
-![Capture](https://user-images.githubusercontent.com/71611488/159821138-2b49e802-bdb3-4223-b5c6-0ab34ae48249.PNG)
+![Capture](https://user-images.githubusercontent.com/71611488/159990694-26ec1c49-09fa-4df7-8794-a1673020800a.PNG)
 
 
 
