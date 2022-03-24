@@ -59,14 +59,14 @@ CHECKOUT
 - *id bayar
 - id keranjang
 - id user
-- tanggal
+- tanggal bayar
 
 KONFIRMASI ORDER
 - *id status
 - id bayar
 - id user
 - status order
-- tanggal
+- tanggal konfirmasi
 
 
 
