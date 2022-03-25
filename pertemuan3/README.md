@@ -12,6 +12,7 @@ OBurger adalah aplikasi Food Delivery yang berisi makanan cepat saji, seperti bu
 1. Memesan makanan
 2. Search box berbagai menu makanan
 3. Menu favorit makanan
+4. Menu Keranjang makanan
 
 
 
