@@ -7,7 +7,7 @@ IDE : SISTEM APLIKASI MAKANAN CEPAT SAJI
 
 
 DESKRIPSI :
-OBurger adalah aplikasi Food Delivery yang berisi makanan cepat saji, seperti burger, ayam goreng, berbagai macam minuman soda, dll . fitur aplikasi ini adalah :
+OBurger adalah aplikasi restoran cepat saji yang berisi makanan cepat saji, seperti burger, ayam goreng, berbagai macam minuman soda, dll . fitur aplikasi ini adalah :
 
 1. Memesan makanan
 2. Search box berbagai menu makanan
