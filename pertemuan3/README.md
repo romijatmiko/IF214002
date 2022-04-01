@@ -1,7 +1,7 @@
 
 IDE : SISTEM APLIKASI MAKANAN CEPAT SAJI
 
-![Capture](https://user-images.githubusercontent.com/71611488/159990694-26ec1c49-09fa-4df7-8794-a1673020800a.PNG)
+![Diagram OBurger](https://user-images.githubusercontent.com/71611488/161178305-dd4d2b8d-f8b0-4ec8-878b-929977568587.jpg)
 
 
 
