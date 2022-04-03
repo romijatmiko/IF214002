@@ -27,36 +27,38 @@ admin
 - password
 
 
-MENU
-- *id menu
+menu
+- *id_menu
 - nama menu
 - harga menu
 
-KATEGORI
-- *id kategori
-- id menu
+kategori_menu
+- *id_kategori
+- id_menu
+- nama_kategori
+- tipe_kategori
 
 
-FAVORIT MENU
-- *id favorit
-- id user
-- id menu
+favorit_menu
+- *id_favorit
+- id_user
+- id_menu
 
-KERANJANG 
-- *id keranjang
-- id menu
-- id user
-- jumlah pesanan
+keranjang 
+- *id_keranjang
+- id_menu
+- id_user
+- jumlah_pesanan
 
-CHECKOUT
-- *id bayar
-- id keranjang
-- id user
-- tanggal bayar
+bayar
+- *id_bayar
+- id_keranjang
+- id_user
+- tanggal_bayar
 
-KONFIRMASI ORDER
-- *id status
-- id bayar
-- id user
-- status order
-- tanggal konfirmasi
+konfirmasi_pesanan
+- *id_status
+- id_bayar
+- id_user
+- status_order
+- tanggal_konfirmasi
