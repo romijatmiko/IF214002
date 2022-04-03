@@ -25,12 +25,14 @@ admin
 - *id_admin
 - username
 - password
-
+- email
+- nama
 
 menu
 - *id_menu
-- nama menu
-- harga menu
+- nama_menu
+- harga_menu
+- stok_menu
 
 kategori_menu
 - *id_kategori
@@ -39,7 +41,7 @@ kategori_menu
 - tipe_kategori
 
 
-favorit_menu
+menu_favorit
 - *id_favorit
 - id_user
 - id_menu
