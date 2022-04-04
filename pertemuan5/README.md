@@ -1,4 +1,6 @@
 
+![new_diagram_OBurger (1)](https://user-images.githubusercontent.com/71611488/161514564-fd923fff-6817-4792-8358-a7dd20a076dd.jpg)
+
 
 DESKRIPSI :
 OBurger adalah aplikasi restoran cepat saji yang berisi makanan cepat saji, seperti burger, ayam goreng, berbagai macam minuman soda, dll . fitur aplikasi ini adalah :
