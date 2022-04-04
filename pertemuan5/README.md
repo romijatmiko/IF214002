@@ -36,6 +36,7 @@ menu
 - nama_menu
 - harga_menu
 - stok_menu
+- deskripsi_menu
 
 kategori_menu
 - *id_kategori
