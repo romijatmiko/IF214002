@@ -13,13 +13,14 @@ OBurger adalah aplikasi restoran cepat saji yang berisi makanan cepat saji, sepe
 user
 - *id_user
 - nama
-- alamat
-- tempat_lahir
-- tanggal_lahir
 - no_hp 
 - email 
 - username 
 - password
+- alamat
+- tempat_lahir
+- tanggal_lahir
+
 
 admin
 - *id_admin
