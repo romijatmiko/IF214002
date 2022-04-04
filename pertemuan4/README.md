@@ -38,7 +38,6 @@ kategori_menu
 - *id_kategori
 - id_menu
 - nama_kategori
-- tipe_kategori
 
 
 menu_favorit
@@ -50,13 +49,16 @@ keranjang
 - *id_keranjang
 - id_menu
 - id_user
-- jumlah_pesanan
+- total_pesanan
+- total_tagihan
 
 bayar
 - *id_bayar
 - id_keranjang
 - id_user
+- metode_pembayaran
 - tanggal_bayar
+- kode_bayar
 
 konfirmasi_pesanan
 - *id_status
