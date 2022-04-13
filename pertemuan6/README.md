@@ -5,55 +5,74 @@
 
 1. Tabel User
 
-![1](https://user-images.githubusercontent.com/71611488/162273838-ec44e6c9-072e-4fdf-aa20-9f22840fba9f.PNG)
-| id_user| nama_user    |           |
-| ---------------------------------------------- | --------------------------- |
-| membuat repository baru                        | git init                    |
-| membuat repository baru di folder project-baru | git init project-baru       |
-| membuat repository untuk dishare               | git init –bare project-baru |
-| copy repository lain                           | git clone repo-url          |
+|🔑 id_user| username     | password     |  email                 |  nama           | alamat        | no_hp         | tanggal_lahir     |             
+| -------   | ------------ | ------------ |------------------------|---------------- | --------------|---------------| ------------------|
+| 1         | romijatmiko  | haha12345    | romijatmiko@gmail.com  | romi jatmiko    | Jatibarang    | 082312481258  | 2002-02-13        |
+| 2         | zidan033     | ayam123      | zidan@gmail.com        | zidan anwar     | Jatisawit     | 082147577127  | 2003-09-16        |
+| 3         | jean099      | burung123    | jean@gmail.com         | jean            | Jatitujuh     | 0873218884885 | 2001-10-12        |
 
 
 
 2. Tabel Menu favorit
 
-![2](https://user-images.githubusercontent.com/71611488/162273846-4e67f512-dd59-4181-8a90-89d9ead2be27.PNG)
-
+|🔑 id_favorit| id_user | id_menu |  
+| -------      | ------- | -----  |
+| 1            | 1       | 1      | 
+| 2            | 1       | 2      | 
+| 3            | 1       | 3      | 
+| 4            | 2       | 1      | 
+| 5            | 2       | 2      | 
+| 6            | 3       | 3      | 
 
 
 3. Tabel Kategori Menu 
 
-![3](https://user-images.githubusercontent.com/71611488/162273853-81d8b47f-f943-4fc5-93d5-b3027252ee65.PNG)
 
+|🔑 id_kategori| id_menu | nama_kategori |  
+| -------   | ------- | -----          |
+| 1         | 1       | makanan        | 
+| 2         | 1       | burger         | 
+| 3         | 2       | minuman        | 
+| 4         | 2       | soda           | 
+| 1         | 3       | makanan        | 
+| 5         | 3       | Ayam goreng    | 
 
 
 4. Tabel Menu 
 
-![4](https://user-images.githubusercontent.com/71611488/162273863-eb6ba837-b047-4d35-b263-23bfcc210764.PNG)
 
+|🔑 id_menu| nama          | harga        |  deskripsi                     | 
+| -------   | ------------ | ------------ |----------------                | 
+| 1         | Beef Burger  | 25.000    |  Burger berisi daging sapi                   | 
+| 2         | Coca Cola    | 8.000      | 1 gelas coca cola                    | 
+| 3         | Ayam Goreng   | 12.000    | 1 pcs ayam goreng                           | 
 
 
 5. Tabel Keranjang
 
-![5](https://user-images.githubusercontent.com/71611488/162273892-2161be21-1df2-4190-b3bd-2ee6c9a249c0.PNG)
+|🔑 id_keranjang | id_menu    | id_user      |  banyak_pesanan        |          
+| ------------    | --------- | ------------ | -----------------------|
+| 1               | 1         | 3            | 3 pcs                  | 
+| 1               | 2         | 3            | 1 pcs                  |
+| 1               | 3         | 3            | 2 pcs                  |
+| 2               | 2         | 1            | 1 pcs                  | 
+| 2               | 3         | 1            | 2 pcs                  | 
+| 3               | 3         | 2            | 2 pcs                  | 
 
 
 
 6. Tabel bayar
 
-![6](https://user-images.githubusercontent.com/71611488/162273910-d4f22122-047e-4ed1-8fd4-44ed3145ee79.PNG)
 
 
 
 7. Tabel Konfirmasi Order
 
-![7](https://user-images.githubusercontent.com/71611488/162273918-79e46e2c-58b5-4b94-ba6a-f94c903ea40d.PNG)
 
 
 
 8. Tabel Admin
 
-![8](https://user-images.githubusercontent.com/71611488/162273926-0fa83473-1906-4fff-b5a5-29103f952ba6.PNG)
 
 
 
