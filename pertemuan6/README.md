@@ -63,16 +63,32 @@
 
 6. Tabel bayar
 
+|🔑 id_bayar      | id_keranjang      |  tanggal_bayar        |  kode_bayar        |  total_tagihan        |                  
+| ------------    | ---------   | ------------ | -----------------------| -----------------------|
+| 1               | 1            | 2022-02-22 18.00                  | 0101                  |107.000                  |
+| 2               | 2            | 2022-03-01 09.00                 | 0202                  |32.000                  |
+| 3               | 3            | 2022-03-07 08.00                 | 0303                  |24.000                  |
+
 
 
 
 7. Tabel Konfirmasi Order
 
+|🔑 id_status      | id_bayar      |  id_admin        |  status_order        |  tanggal_konfirmasi        |                  
+| ------------    | ---------      | ------------     | -----------------------| -----------------------|
+| 1               | 1              | 3                  | Suksess                  |2022-02-22 18.25                  |
+| 2               | 2              | 1                | Suksess                  |2022-03-01 09.30                 |
+| 3               | 3              | -                | Menunggu dikonfirmasi                  | -                 |
 
 
 
 8. Tabel Admin
 
+|🔑 id_admin| username     | password     |  email                 |  nama           |         
+| -------   | ------------ | ------------ |------------------------|---------------- | 
+| 1         | admin01  | 111    | herry@gmail.com  | herry    | 
+| 2         | admin02     | 222      | ahmad@gmail.com        | ahmad     | 
+| 3         | admin03      | 333    | indra@gmail.com         | indra            | 
 
 
 
