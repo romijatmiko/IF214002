@@ -6,6 +6,12 @@
 1. Tabel User
 
 ![1](https://user-images.githubusercontent.com/71611488/162273838-ec44e6c9-072e-4fdf-aa20-9f22840fba9f.PNG)
+| id_user| nama_user    |           |
+| ---------------------------------------------- | --------------------------- |
+| membuat repository baru                        | git init                    |
+| membuat repository baru di folder project-baru | git init project-baru       |
+| membuat repository untuk dishare               | git init –bare project-baru |
+| copy repository lain                           | git clone repo-url          |
 
 
 
