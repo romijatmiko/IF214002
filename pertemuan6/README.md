@@ -41,7 +41,7 @@
 4. Tabel Menu 
 
 
-|🔑 id_menu| nama          | harga        |  deskripsi                     | 
+|🔑 id_menu| nama_menu          | harga_menu        |  deskripsi_menu                     | 
 | -------   | ------------ | ------------ |----------------                | 
 | 1         | Beef Burger  | 25.000    |  Burger berisi daging sapi                   | 
 | 2         | Coca Cola    | 8.000      | 1 gelas coca cola                    | 
