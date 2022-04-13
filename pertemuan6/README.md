@@ -1,6 +1,7 @@
 <h1 b >NORMALISASI DIAGRAM OBURGER </h1>
 
 <h2 b >Detail yang diubah </h2>
+
 1. menghilangkan atribut stok menu pada tabel menu
 2. mengganti total_pesanan dengan banyak_pesanan pada tabel keranjang
 3. memindahkan atribut total_tagihan dari tabel keranjang ke tabel bayar
