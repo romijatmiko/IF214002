@@ -1,5 +1,6 @@
 <h1 b >NORMALISASI DIAGRAM OBURGER </h1>
 
+![new_diagram_OBurger (1) (1)](https://user-images.githubusercontent.com/71611488/163249858-693ff290-a2ca-4810-9fff-58a337f48801.jpg)
 
 
 1. Tabel User
