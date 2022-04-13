@@ -1,5 +1,12 @@
 <h1 b >NORMALISASI DIAGRAM OBURGER </h1>
 
+<h2 b >Detail yang diubah </h2>
+1. menghilangkan atribut stok menu pada tabel menu
+2. mengganti total_pesanan dengan banyak_pesanan pada tabel keranjang
+3. memindahkan atribut total_tagihan dari tabel keranjang ke tabel bayar
+
+
+
 ![new_diagram_OBurger (1) (1)](https://user-images.githubusercontent.com/71611488/163249858-693ff290-a2ca-4810-9fff-58a337f48801.jpg)
 
 
@@ -63,22 +70,22 @@
 
 6. Tabel bayar
 
-|🔑 id_bayar      | id_keranjang      |  tanggal_bayar        |  kode_bayar        |  total_tagihan        |                  
-| ------------    | ---------   | ------------ | -----------------------| -----------------------|
-| 1               | 1            | 2022-02-22 18.00                  | 0101                  |107.000                  |
-| 2               | 2            | 2022-03-01 09.00                 | 0202                  |32.000                  |
-| 3               | 3            | 2022-03-07 08.00                 | 0303                  |24.000                  |
+|🔑 id_bayar      | id_keranjang      |id_user|  tanggal_bayar        |  kode_bayar        |  total_tagihan        |                  
+| ------------    | ---------   | ------------ |------------ | -----------------------| -----------------------|
+| 1               | 1            |  3|2022-02-22 18.00                  | 0101                  |107.000                  |
+| 2               | 2            |  1 |2022-03-01 09.00                 | 0202                  |32.000                  |
+| 3               | 3            |  2 |2022-03-07 08.00                 | 0303                  |24.000                  |
 
 
 
 
 7. Tabel Konfirmasi Order
 
-|🔑 id_status      | id_bayar      |  id_admin        |  status_order        |  tanggal_konfirmasi        |                  
-| ------------    | ---------      | ------------     | -----------------------| -----------------------|
-| 1               | 1              | 3                  | Suksess                  |2022-02-22 18.25                  |
-| 2               | 2              | 1                | Suksess                  |2022-03-01 09.30                 |
-| 3               | 3              | -                | Menunggu dikonfirmasi                  | -                 |
+|🔑 id_status      | id_bayar      | id_user  | id_admin        |  status_order        |  tanggal_konfirmasi        |                  
+| ------------    | ---------      | ------------  | ------------    | -----------------------| -----------------------|
+| 1               | 1              |  3|3                  | Suksess                  |2022-02-22 18.25                  |
+| 2               | 2              | 1|1                | Suksess                  |2022-03-01 09.30                 |
+| 3               | 3              | 3|-                | Menunggu dikonfirmasi                  | -                 |
 
 
 
