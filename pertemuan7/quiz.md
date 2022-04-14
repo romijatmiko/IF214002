@@ -15,7 +15,7 @@ Jawab :
 
 2. penyimpanan data karyawan
 
-<h1 b >ENTITAS DAN ATRIBUT</h1>
+<h3 b >ENTITAS DAN ATRIBUT</h3>
 
 karyawan
 - *id_karyawan
@@ -45,4 +45,8 @@ historis_tempat_tinggal
 - Kecamatan
 - Kabupaten
 - Provinsi
+
+<h3 b >DIAGRAM ERD</h3> 
+![diagram_karyawan](https://user-images.githubusercontent.com/71611488/163298544-440c3ee4-ec8c-44d1-883c-3170955b00c8.jpg)
+
 
