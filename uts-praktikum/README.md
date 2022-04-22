@@ -1,16 +1,18 @@
 Nama : Romi Jatmiko
+
 Kelas : IF E
+
 NIM : 1207050146
 
 
 
-1.	Jelaskan contoh-contoh perintah SQL beserta kegunannya !
+<h2 b >1. Jelaskan contoh-contoh perintah SQL beserta kegunannya !</h2>
 
 
 Jawab :
 
 
-Data Definition Language (DDL)
+<h2 b >Data Definition Language (DDL)</h2>
 
 
 
@@ -41,7 +43,7 @@ Data Definition Languange (DDL) adalah perintah yang digunakan untuk mendefinisi
 
 
 
-Data Manipulation Language (DML)
+<h2 b >Data Manipulation Language (DML)</h2>
 
 
 
@@ -66,20 +68,19 @@ Pada database SQL, perintah yang digunakan untuk memanipulasi data adalah Data M
 
 
 
-==============================================================================================================================================================================
+========================================================================================================================================================================================
 
 
 
-
-2. Rancang solusi digital dari satu permasalahan yang ada di sekitar Anda.
-
+<h2 b >2. Rancang solusi digital dari satu permasalahan yang ada di sekitar Anda.</h2>
 
 
 
-•	A. Berdasarkan ERD yang telah dibuat, buatlah implementasi basis data dari ERD tersebut dalam bentuk tabel basis data lengkap dengan Primary Key, Foreign Key dengan menggunakan perintah CREATE TABLE bahasa SQL. Anda dapat menggunakan vendor basis data yang Anda sukai (MySQL / PostgreSQL / SQL Server / dsb.). Jika belum sempat install basis data di laptop, bisa menggunakan sqliteonline.com untuk mengecek keberhasilan pembuatan tabelnya.
+A. Berdasarkan ERD yang telah dibuat, buatlah implementasi basis data dari ERD tersebut dalam bentuk tabel basis data lengkap dengan Primary Key, Foreign Key dengan menggunakan perintah CREATE TABLE bahasa SQL. Anda dapat menggunakan vendor basis data yang Anda sukai (MySQL / PostgreSQL / SQL Server / dsb.). Jika belum sempat install basis data di laptop, bisa menggunakan sqliteonline.com untuk mengecek keberhasilan pembuatan tabelnya.
 Dikerjakan di repository Github /uts-praktikum/README.md. Kode SQL dapat ditulis menggunakan md 
 
 
+Jawab :
 
 
 ```sql
