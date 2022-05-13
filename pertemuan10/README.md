@@ -12,5 +12,5 @@
 <h2 b > Cari Query </h2>
 
 ```
-SELECT * FROM penduduk WHERE(tanggal_lahir) >= 25 && kode_kabupaten = '3204';
+SELECT * FROM penduduk WHERE(tanggal_lahir) > 25 && kode_kabupaten = '3204';
 ```
