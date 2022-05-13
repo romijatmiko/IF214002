@@ -65,7 +65,7 @@ DELETE
 SELECT * FROM haha
 ```
 
-<h2 b >Contoh Query DCL </h2>
+<h2 b >3. DCL </h2>
 
 DCL atau Data Control Language, biasa digunakan untuk merubah hak akses, memberikan roles, dan isu lain yang berhubungan dengan keamanan database. Yang menggunakan DCL :
 
