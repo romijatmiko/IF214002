@@ -54,17 +54,25 @@ CREATE DATABASE indo;
 
 DML atau Data Manipulation Language merupakan perintah SQL yang berhubungan dengan manipulasi atau pengolahan data dalam table. Yang menggunakan DML :
 
-SELECT
 INSERT
 UPDATE
 DELETE
 
 <h2 b >Contoh Query DML </h2>
 ```
-SELECT * FROM haha
+INSERT INTO table_name (column1, column2, column3, ...)
+```
+<h2 b >3. DQL </h2>
+
+
+SELECT
+
+<h2 b >Contoh Query DQL </h2>
+```
+SELECT * FROM hehe;
 ```
 
-<h2 b >3. DCL </h2>
+<h2 b >4. DCL </h2>
 
 DCL atau Data Control Language, biasa digunakan untuk merubah hak akses, memberikan roles, dan isu lain yang berhubungan dengan keamanan database. Yang menggunakan DCL :
 
