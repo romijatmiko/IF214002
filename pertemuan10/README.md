@@ -48,9 +48,8 @@ DROP VIEW
 <h2 b >Contoh Query DDL </h2>
 
 ```
- CREATE DATABASE indo;
- 
- ```
+CREATE DATABASE indo;
+```
 <h2 b >2. DML </h2>
 
 DML atau Data Manipulation Language merupakan perintah SQL yang berhubungan dengan manipulasi atau pengolahan data dalam table. Yang menggunakan DML :
