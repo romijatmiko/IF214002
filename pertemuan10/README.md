@@ -59,8 +59,7 @@ UPDATE
 DELETE
 
 <h2 b >Contoh Query DML </h2>
-```
-INSERT INTO table_name (column1, column2, column3, ...)
+```INSERT INTO table_name (column1, column2, column3, ...)
 ```
 <h2 b >3. DQL </h2>
 
@@ -68,8 +67,7 @@ INSERT INTO table_name (column1, column2, column3, ...)
 SELECT
 
 <h2 b >Contoh Query DQL </h2>
-```
-SELECT * FROM hehe;
+```SELECT * FROM hehe;
 ```
 
 <h2 b >4. DCL </h2>
@@ -88,12 +86,10 @@ REVOKE INSERT
 REVOKE UPDATE
 
 <h2 b >Contoh Query DCL </h2>
-```
-GRANT SELECT ON konsepkoding TO user_cakep
+```GRANT SELECT ON konsepkoding TO user_cakep
 ```
 
 <h2 b > Cari Query </h2>
 
-```
----------
+```---------
 ```
