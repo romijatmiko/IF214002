@@ -100,7 +100,7 @@ VALUES (3, 'Chinken Wins with cheese' , '25000', 'Ayam keju');
 
 ```
 
-<h2 b >2. Data Query Language (DQL ) !</h2>
+<h2 b >3. Data Query Language (DQL ) !</h2>
 
 1. cari info chiken wings
 
